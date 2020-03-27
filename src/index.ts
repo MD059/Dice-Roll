@@ -1,9 +1,9 @@
 //TODO
 
-// import { Partie } from "./classes/partie";
+import { Partie } from "./classes/partie";
 
-// const partie : Partie = new Partie(5,4);
+const partie : Partie = new Partie(5,4);
 
-// partie.initialiser();
-// partie.lancer();
-// partie.afficher_gagnant();
+partie.initialiser();
+partie.lancer();
+partie.afficher_gagnant();
